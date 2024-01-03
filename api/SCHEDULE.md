@@ -18,6 +18,7 @@ offset: 0,
 sort: title | airdate | popularity | modified | countdown | anime.avg_rating,
 titles: romaji | english,
 hide_skipping: true | false
+limit: number "Show More items if has_more= true"
 ```
 
 ___
